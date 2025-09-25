@@ -5,7 +5,7 @@ Files
 
 Install instructions (Android)
 1. On the target Android device, enable installation from unknown sources if required. Settings path varies by Android version (e.g., Settings → Security → Install unknown apps).
-2. Copy `shopping_cart_v1.apk` to the device via USB, ADB, or cloud storage.
+2. Copy `shopping_cart_v2.apk` to the device via USB, ADB, or cloud storage.
 3. On the device, locate the APK (Files app) and tap to install.
 4. Follow prompts and grant permissions if requested.
 
