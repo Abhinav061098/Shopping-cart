@@ -47,7 +47,7 @@ Pre-bundled APK (in this repo)
 - Install on an Android device via ADB:
 
 ```powershell
-adb install -r build_outputs\apk\shopping_cart_v1.apk
+adb install -r build_outputs\apk\shopping_cart_v2.apk
 ```
 
 Or copy the APK to the device and install via the Files app.
