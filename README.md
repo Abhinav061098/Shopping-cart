@@ -43,7 +43,7 @@ build\app\outputs\flutter-apk\app-release.apk
 ```
 
 Pre-bundled APK (in this repo)
-- A release APK has been copied to `build_outputs/apk/shopping_cart_v1.apk` for convenience.
+- A release APK has been copied to `build_outputs/apk/shopping_cart_v2.apk` for convenience.
 - Install on an Android device via ADB:
 
 ```powershell
@@ -69,4 +69,4 @@ Testing & analysis
 flutter analyze
 ```
 ---
-Generated: ${DateTime.now()}
+26-09-2025 5:20AM
